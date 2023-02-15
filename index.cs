@@ -4,6 +4,6 @@ Console.WriteLine("Hi Worild");Console.WriteLine("Hello World");internal class P
     {
         Console.WriteLine("Hello World");
         Console.WriteLine("Hi Worild");
-        Console.WriteLine("World);
+        Console.WriteLine("World");
     }
 }
